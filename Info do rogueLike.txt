@@ -1,0 +1,7 @@
+bugs:
+troca de mapa não funcional
+
+alterações e tentativas de resolução de bugs:
+deletar o mapa antigo na propria cena e recria-lo com o random generation (não funcionou)
+
+
