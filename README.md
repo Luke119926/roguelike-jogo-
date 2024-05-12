@@ -1,7 +1,8 @@
-# projeto-roguelike
+# roguelike-jogo-
  * **Clone o projeto e implemente as novas funcionalidades!**
  * Somente os **scripts** foram adicionados nesse repositório (devido ao peso total do projeto).
  * *Alterações no inspetor e outros arquivos poderão ser necessárias!*
+ * Projeto feito na Unity
  * Sempre que uma nova feature for adicionada, será acrescentada também na tabela:
    
 # Features implementadas
